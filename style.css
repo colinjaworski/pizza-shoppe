@@ -1,0 +1,21 @@
+body {
+  background-color: blue;
+}
+
+h1 {
+  color: white;
+  font-size: 24px;
+  font-family: ariel, helvetica, sans-sarif;
+  
+}
+
+.header{
+  background-color: black;
+  padding-left: 10px;
+  border: solid-black 2px;
+  
+}
+
+.footer{
+  background-color: orange;
+}
